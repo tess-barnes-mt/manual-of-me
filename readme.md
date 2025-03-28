@@ -36,7 +36,7 @@ Made Tech
 
 as a Lead Software engineer 
 
-so a (consultant for individuals and teams doing dev ops)
+so a (consultant for individuals and teams doing dev ops, software, architecture or prototyping)
 
 also a Mentor
 
@@ -96,5 +96,5 @@ Tea in the afternoons. Taking time for a cuppa is a good way to reset part way t
 - [Crone of Elders Blaze](https://www.goodreads.com/book/show/202410491-the-crone-of-elders-blaze?ref=nav_sb_ss_4_9)
 
 ## Currently listening to
-- [65 Days of Static - Under The Summs](https://www.65daysofstatic.com/under-the-summs-streaming-now-2/) 
+- [God is an Astronaut - Embers](https://god-is-an-astronaut.bandcamp.com/album/embers)
 
