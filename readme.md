@@ -8,7 +8,7 @@ And secretly, to faithfully serve my furry feline overlord :cat2:
 
 ## Interested in
 
-- Eastern philospohy & matial arts: Be water my friend...
+- Eastern philospohy & martial arts: Be water my friend...
 - Systems thinking
 - Photography
 - Music
@@ -47,33 +47,9 @@ also a Tech Coach
 ## Latest shiny
 **caveat** may not be new, might be new to me or finding out how to use in a new way
 
-- [Plant UML](https://plantuml.com/salt), salt (wireframes) - diagrams, views & layouts from code
+- [terraform](https://registry.terraform.io/providers/kreuzwerker/docker/latest/docs) driven docker image builds (and other terraform actions) in github action workflows
+- [Mermaid](https://mermaid.js.org/syntax/sequenceDiagram.html) for diagrams as code, everything from timelines, graphs, sequences and user journeys 
 
-### Examples
-```plantuml
-@startsalt
-{#
-title Work Hours (BST / UTC)
-  <b>\ | <b> <color:blue>Monday  | <b> <color:blue>Tuesday  |<b> <color:blue> Wednesday  | <b> <color:blue>Thursday  | <b> <color:blue> Friday 
-  Start | 08:00 | 09:15 | 08:00 | 08:00 | 08:00
-  Lunch | 12:00 | 12:00 | 12:00 | 12:00 | 12:00
-  Wrap Up | 18:00 ish | 17:00 ish | 16:00 ish | 18:00 ish  | 17:00 
-
-}
-@endsalt
-```
-```plantuml
-@startsalt
-{
-  title Work related things
-* <size:20><&people> <size:14> hold space for others to grow
-* <size:20><&terminal> <size:14> write meaningful devops code
-* <size:20><&bullhorn> <size:14> share best practice
-* <size:20><&magnifying-glass> <size:14> look at the big picture with an eye for the pesky details
-* <size:20><&lock-locked> <size:14> understand secure and reasonable identity management
-}
-@endsalt
-```
 
 ## Contact me for mentoring in
 - coaching on your career journey
@@ -91,10 +67,12 @@ Coffee in the mornings. Fresh ground is best.
 Tea in the afternoons. Taking time for a cuppa is a good way to reset part way through the day.
 
 ## Current reading list
+- [Platformland](https://www.goodreads.com/book/show/218285899-platformland?ref=nav_sb_ss_1_11)
 - [Be water my friend](https://www.goodreads.com/book/show/49247089-be-water-my-friend?ref=nav_sb_ss_1_8)
 - [Systems 1: Introductions to Systems Thinking](https://www.goodreads.com/book/show/56676873-systems-1?ref=nav_sb_ss_1_14)
-- [Crone of Elders Blaze](https://www.goodreads.com/book/show/202410491-the-crone-of-elders-blaze?ref=nav_sb_ss_4_9)
+- [The Atrocity Archives](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives?ref=nav_sb_ss_1_11)
 
 ## Currently listening to
 - [God is an Astronaut - Embers](https://god-is-an-astronaut.bandcamp.com/album/embers)
+- [Madis - Elements of Life](https://madis.bandcamp.com/album/elements-of-life)
 
